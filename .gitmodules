@@ -1,3 +1,4 @@
 [submodule "rc-switch"]
 	path = rc-switch
-	url = https://github.com/sui77/rc-switch.git
+	url = https://github.com/1technophile/rc-switch.git
+	branch = dev
